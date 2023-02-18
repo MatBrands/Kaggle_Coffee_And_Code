@@ -1,0 +1,12 @@
+name: coffe_and_code_venv
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - numpy
+  - pandas
+  - tqdm
+  - matplotlib
+  - seaborn
+  - ipykernel
